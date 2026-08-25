@@ -1,6 +1,6 @@
 {
   "username": "ouassim20",
-  "generated_at": "2026-08-24T07:19:51.793206+00:00",
+  "generated_at": "2026-08-25T07:07:57.196770+00:00",
   "days": [
     {
       "date": "2025-08-24",
@@ -1829,14 +1829,19 @@
     },
     {
       "date": "2026-08-24",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-25",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 30,
-    "current_streak": 12,
-    "longest_streak": 12,
+    "total": 31,
+    "current_streak": 13,
+    "longest_streak": 13,
     "best_day": {
       "date": "2026-08-13",
       "level": 4,
@@ -1855,7 +1860,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 0,
-      "2026-08": 30
+      "2026-08": 31
     }
   }
 }
