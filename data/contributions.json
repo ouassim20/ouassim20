@@ -1,42 +1,7 @@
 {
   "username": "ouassim20",
-  "generated_at": "2026-10-17T10:42:15.321597+00:00",
+  "generated_at": "2026-10-18T11:02:29.448372+00:00",
   "days": [
-    {
-      "date": "2025-10-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-18",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-19",
       "level": 0,
@@ -1854,14 +1819,19 @@
     },
     {
       "date": "2026-10-17",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 92,
-    "current_streak": 66,
-    "longest_streak": 66,
+    "total": 93,
+    "current_streak": 67,
+    "longest_streak": 67,
     "best_day": {
       "date": "2026-09-07",
       "level": 4,
@@ -1880,7 +1850,7 @@
       "2026-07": 0,
       "2026-08": 38,
       "2026-09": 38,
-      "2026-10": 16
+      "2026-10": 17
     }
   }
 }
